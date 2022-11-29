@@ -1,6 +1,9 @@
 # flamingo
 
-A new Flutter project.
+This is a book store app where you can find books and read it 
+![flamingo](https://user-images.githubusercontent.com/81522801/204524936-b1edd715-2072-4e1d-be7e-0d2ddb9bd5fe.jpeg)
+
+
 
 ## Getting Started
 
